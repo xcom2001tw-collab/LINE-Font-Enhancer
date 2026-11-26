@@ -15,8 +15,8 @@ Windows 11、200% 顯示縮放實測。左側原廠、右側 FreeType；僅裁�
 | 字型 | 原廠 | FreeType |
 |---|---|---|
 | 微軟正黑體 | ![原廠](sample_0_0.png) | ![FreeType](sample_0_1.png) |
-| 金萱粉圓體 | ![原廠](sample_1_0.png) | ![FreeType](sample_1_1.png) |
-| 標楷體 | ![原廠](sample_2_0.png) | ![FreeType](sample_2_1.png) |
+| 金萱粉圓體 | ![原廠](sample_1_1.png) | ![FreeType](sample_1_0.png) |
+| 標楷體 | ![原廠](sample_2_1.png) | ![FreeType](sample_2_0.png) |
 | 新細明體 | ![原廠](sample_3_0.png) | ![FreeType](sample_3_1.png) |
 | Noto Sans TC Medium | ![原廠](sample_4_0.png) | ![FreeType](sample_4_1.png) |
 
